@@ -1,8 +1,31 @@
 
-👋 Hello !! <br>
-I am a **Full-Stack and Blockchain Engineer** with a proven track record of delivering robust, scalable, and user-focused applications. With deep expertise in **LangChain, LLMs, NLP, Solidity, Rust, Go, Haskell, Anchor, React/Next.js, JS/TS and Node.js**, I build end-to-end solutions across both Web2 and Web3 ecosystems.
-My experience includes developing **AI agents, smart contracts, dApps, DeFi platforms, web and mobile wallets, NFT games, node infrastructure, and automated trading systems.** I combine strong system architecture skills with thoughtful UI/UX design to transform complex technical requirements into high-performance, intuitive products.
-Driven by precision, innovation, and a commitment to excellence, I help bring ambitious ideas to life and push the boundaries of modern technology.        <br><br>
+👋 Hello!!
+
+I’m a Full-Stack & Blockchain Engineer with a strong background in building scalable, secure, and high-performance applications across both Web2 and Web3 ecosystems. I specialize in designing complete end-to-end solutions — from system architecture and backend infrastructure to smart contracts, AI agents, and intuitive frontends.
+
+With deep expertise in LangChain, LLMs, NLP, Solidity, Rust, Go, Haskell, Anchor, React/Next.js, TypeScript, and Node.js, I develop modern applications that combine intelligence, reliability, and exceptional user experience.
+
+I’ve engineered systems ranging from:
+
+⚡ AI Agents & Autonomous Compute Systems
+
+🔗 Blockchain Node Infrastructure & Indexers
+
+🧠 Smart Contracts (Solidity / Rust / Anchor)
+
+💸 DeFi Platforms & Automated Trading Bots
+
+🎮 NFT Games & On-chain Logic
+
+🌐 Full-Stack dApps & Web3 Wallets
+
+📱 Cross-platform Wallets (Web & Mobile)
+
+🔥 Real-time APIs, microservices, and cloud architectures
+
+I blend strong backend engineering, smart contract security, LLM integration, and clean modern UI/UX to deliver products that are both powerful and effortless to use. Focused on innovation, precision, and long-term scalability, I help turn ambitious ideas into polished, production-grade reality.
+
+If you’re building something bold, technical, and high-impact — I build the systems that make it possible.        <br><br>
          <div style="display: flex; align-items: flex-start; align: center">
           <table align="center">
             <tr>
